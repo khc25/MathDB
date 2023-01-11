@@ -13,7 +13,7 @@
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
     "jwt-simple": "^0.5.6",
-    "knex": "^0.20.10",
+    "knex": "^2.4.0",
     "morgan": "~1.9.0",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
